@@ -59,3 +59,8 @@ Contributors
 * Mark Galloway
 * Abram Hindle
 * Cole Mackenzie
+
+References
+============
+* https://github.com/abramhindle/WebSocketsExamples/blob/master/chat.py
+* https://stackoverflow.com/questions/1484506/random-color-generator
